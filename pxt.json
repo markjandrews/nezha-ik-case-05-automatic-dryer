@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-PlanetX": "github:elecfreaks/pxt-planetx#v1.2.6",
+        "pxt-nezha": "github:elecfreaks/pxt-nezha#v1.3.1"
     },
     "files": [
         "main.blocks",
